@@ -17,11 +17,11 @@ console.log(finalAnswer);      // and print it to the console
 // My guess = Joseph because its assgined as a global variable
 // so it should be acessible from anywhere outside of our program
 
-PREDICTION = CORRECT!
+// PREDICTION = CORRECT!
 
 // GUESS 2 ///////////////////
 
-let firstName = "Donna";      // we declared  a global variable, accessible from anywhere in our program 
+let firstName = "Donna";      // we declare a global variable, accessible from anywhere in our program 
 
 const guessWho = function(){
     const glasses = false;
